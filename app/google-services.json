@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "400272076354",
+    "project_id": "furnituredekho-24",
+    "storage_bucket": "furnituredekho-24.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:400272076354:android:fa124b3bc133a8038e47db",
+        "android_client_info": {
+          "package_name": "net.smallacademy.authenticatorapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "400272076354-oombnfkq4qlj4bdf5769m5uh586dp048.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCptRR6ZaLb5UbzbJGe6KPFHlp-_KvbPWc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "400272076354-oombnfkq4qlj4bdf5769m5uh586dp048.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
